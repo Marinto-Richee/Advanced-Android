@@ -35,7 +35,7 @@ Developed by:          Marinto Richee J
 Registeration Number : 212220230031
 */
 ```
-### MainActivity.java:
+### MainActivity.java
 ```java
 package com.example.proximitysensor;
 
@@ -92,7 +92,7 @@ public class MainActivity extends AppCompatActivity {
 }
 
 ```
-### AndroidManifest.xml:
+### AndroidManifest.xml
 ```java
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
@@ -125,7 +125,7 @@ public class MainActivity extends AppCompatActivity {
 
 </manifest>
 ```
-### activity_main.xml:
+### activity_main.xml
 ```java
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -147,11 +147,11 @@ public class MainActivity extends AppCompatActivity {
 
 </LinearLayout>
 ```
-
-## OUTPUT
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+## OUTPUT:
 ![image](https://user-images.githubusercontent.com/65499285/200177179-43e70d7f-1834-4138-99df-cc8ce5120221.png)
 
 ![image](https://user-images.githubusercontent.com/65499285/200177206-bb7a4585-7948-499c-937a-e44ad2fe75fc.png)
 
-## RESULT
+## RESULT:
 Thus, a Simple Android Application to display the process of proximity sensor using sensor manager in Android Studio is developed and executed successfully.
