@@ -25,6 +25,8 @@ Step 6: Display process of proximity sensor in android mobile devices.
 
 Step 7: Save and run the application.
 
+<br><br><br><br><br><br><br><br><br><br>
+
 ## PROGRAM:
 ```
 /*
@@ -152,4 +154,4 @@ public class MainActivity extends AppCompatActivity {
 ![image](https://user-images.githubusercontent.com/65499285/200177206-bb7a4585-7948-499c-937a-e44ad2fe75fc.png)
 
 ## RESULT
-Thus, a Simple Android Application to display the details of proximity sensor using sensor manager in Android Studio is developed and executed successfully.
+Thus, a Simple Android Application to display the process of proximity sensor using sensor manager in Android Studio is developed and executed successfully.
