@@ -1,4 +1,4 @@
-# Ex.No:4 Develop a simple application for proximity sensor using Sensor Manager in android studio.
+# Ex.No: 4 Develop a simple application for proximity sensor using Sensor Manager in android studio.
 
 
 ## AIM:
@@ -7,11 +7,11 @@ To develop a sensor application for proximity sensor using sensor manager in And
 
 ## EQUIPMENTS REQUIRED:
 
-Android Studio(Min.required Artic Fox)
+Android Studio(Min.required Arctic Fox)
 
 ## ALGORITHM:
 
-Step 1: Open Android Stdio and then click on File -> New -> New project.
+Step 1: Open Android Studio and then click on File -> New -> New project.
 
 Step 2: Then type the Application name as proximitysensor and click Next. 
 
@@ -21,15 +21,15 @@ Step 4: Then select the Empty Activity and click Next. Finally click Finish.
 
 Step 5: Design layout in activity_main.xml.
 
-Step 6: Display process of proximitysensor in android mobile devices.
+Step 6: Display process of proximity sensor in android mobile devices.
 
 Step 7: Save and run the application.
 
 ## PROGRAM:
 ```
 /*
-Program to print the process of proximitysensor in android mobile devices”.
-Developed by: Marinto Richee J
+Program to print the details of proximity sensor in android mobile devices.
+Developed by:          Marinto Richee J
 Registeration Number : 212220230031
 */
 ```
@@ -152,4 +152,4 @@ public class MainActivity extends AppCompatActivity {
 ![image](https://user-images.githubusercontent.com/65499285/200177206-bb7a4585-7948-499c-937a-e44ad2fe75fc.png)
 
 ## RESULT
-Thus a Simple Android Application to display the details of proximity sensor using sensor manager in Android Studio is developed and executed successfully.
+Thus, a Simple Android Application to display the details of proximity sensor using sensor manager in Android Studio is developed and executed successfully.
