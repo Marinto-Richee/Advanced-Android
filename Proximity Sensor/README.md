@@ -25,12 +25,14 @@ Step 6: Display process of proximity sensor in android mobile devices.
 
 Step 7: Save and run the application.
 
+<br><br><br><br><br><br><br><br><br><br>
+
 ## PROGRAM:
 ```
 /*
 Program to print the details of proximity sensor in android mobile devices.
-Developed by:          Marinto Richee J
-Registeration Number : 212220230031
+Developed by         : Marinto Richee J
+Registration Number  : 212220230031
 */
 ```
 ### MainActivity.java
@@ -145,6 +147,7 @@ public class MainActivity extends AppCompatActivity {
 
 </LinearLayout>
 ```
+<br><br><br><br><br><br><br><br><br><br><br>
 ## OUTPUT:
 ![image](https://user-images.githubusercontent.com/65499285/200177179-43e70d7f-1834-4138-99df-cc8ce5120221.png)
 
