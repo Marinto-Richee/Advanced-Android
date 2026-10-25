@@ -5,9 +5,9 @@
 
 To create a AIDL interface and communicate the process between client and server using AIDL interface in Android Studio.
 
-## EQUIPMENTS REQUIRED:
+## EQUIPMENT REQUIRED:
 
-Android Studio(Min.required Artic Fox)
+Android Studio(Min.required Arctic Fox)
 
 ## ALGORITHM:
 
@@ -30,7 +30,7 @@ Step 7: Save and run the application.
 /*
 Program to print the client/server services using AIDL”.
 Developed by: Marinto Richee J
-Registeration Number : 212220230031
+Registration Number : 212220230031
 */
 ```
 

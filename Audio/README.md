@@ -2,9 +2,9 @@
 
 ## AIM:
 
-To develop a simple application, to play and control the audio file and to perfrom the start,pause and stop opeartion in Android Studio.
+To develop a simple application, to play and control the audio file and to perform the start,pause and stop operation in Android Studio.
 
-## EQUIPMENTS REQUIRED:
+## EQUIPMENT REQUIRED:
 
 Android Studio(Min.required Arctic Fox)
 
@@ -126,4 +126,4 @@ public class MainActivity extends AppCompatActivity {
 ![image](https://user-images.githubusercontent.com/75234991/200127085-1d11042a-d7f0-487e-901d-66b22359a6b2.png)
 
 ## RESULT:
-Thus, a simple application to play and control the audio file and to perform the start,pause and stop opeartion in Android Studio is developed and executed successfully.
+Thus, a simple application to play and control the audio file and to perform the start,pause and stop operation in Android Studio is developed and executed successfully.
