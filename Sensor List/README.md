@@ -5,7 +5,7 @@
 
 To develop a sensor application to use the sensor manager class to identify and get the list of available sensors on a device in Android Studio.
 
-## EQUIPMENTS REQUIRED:
+## EQUIPMENT REQUIRED:
 
 Android Studio(Min.required Arctic Fox)
 
@@ -21,7 +21,7 @@ Step 4: Then select the Empty Activity and click Next. Finally click Finish.
 
 Step 5: Design layout in activity_main.xml.
 
-Step 6: Display avaliable sensor in android mobile devices.
+Step 6: Display available sensor in android mobile devices.
 
 Step 7: Save and run the application.
 
@@ -30,7 +30,7 @@ Step 7: Save and run the application.
 ## PROGRAM:
 ```
 /*
-Program to print the avaliable sensor in android mobile devices.
+Program to print the available sensor in android mobile devices.
 Developed by        : Marinto Richee
 Registration Number : 212220230031
 */
@@ -97,4 +97,4 @@ public class MainActivity extends AppCompatActivity {
 <br><br><br>
 
 ## RESULT:
-Thus, a Simple Android Application to display the avaliable sensor in android mobile devices using Sensor Manager in Android Studio is developed and executed successfully.
+Thus, a Simple Android Application to display the available sensor in android mobile devices using Sensor Manager in Android Studio is developed and executed successfully.

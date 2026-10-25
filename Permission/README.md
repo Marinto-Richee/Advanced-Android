@@ -4,7 +4,7 @@
 
 To develop a simple application for RunTime Permission in Android Studio.
 
-## EQUIPMENTS REQUIRED:
+## EQUIPMENT REQUIRED:
 
 Android Studio(Min.required Arctic Fox)
 

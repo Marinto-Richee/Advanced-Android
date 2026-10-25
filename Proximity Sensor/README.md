@@ -5,7 +5,7 @@
 
 To develop a sensor application for proximity sensor using sensor manager in Android Studio.
 
-## EQUIPMENTS REQUIRED:
+## EQUIPMENT REQUIRED:
 
 Android Studio(Min.required Arctic Fox)
 
